@@ -11,7 +11,7 @@ function createComponent(type) {
     switch(type) {
         case 'button':
             element = document.createElement('button');
-            element.innerText = 'New Button';
+            element.innerText = 'Click Me!'; // Updated text
             break;
         case 'modal':
             element = document.createElement('div');
