@@ -43,6 +43,8 @@ button.component {
     background-color: #ddd;
     border: none;
     cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
 }
 
 button.component:hover {
